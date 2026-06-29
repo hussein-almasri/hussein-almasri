@@ -18,3 +18,11 @@ Flutter Developer • Laravel Developer • AI Enthusiast
 - 📍 Jordan
 - 🚀 Currently building real-world applications
 - 🌱 Always learning new technologies
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,python,java,cpp,mysql,sqlite,git,github,vscode,androidstudio" />
+
+</p>
