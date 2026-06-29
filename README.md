@@ -39,9 +39,7 @@ Flutter Developer • Laravel Developer • AI Enthusiast
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hussein-almasri&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussein-almasri&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -116,9 +114,6 @@ Task and workflow management system developed using Laravel.
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://play.google.com/store/apps/developer?id=hussein+almasri">
-<img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
-</a>
 
 </p>
 
