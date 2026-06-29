@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hussein Almasri</h1>
-
+<h1 align="center">
+Hi 👋 I'm Hussein Almasri
+</h1>
 <h3 align="center">Software Engineering Student</h3>
 
 <h4 align="center">
