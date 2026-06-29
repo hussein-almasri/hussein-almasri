@@ -1,16 +1,11 @@
-# Hi 👋, I'm Hussein Almasri
+<h1 align="center">Hi 👋, I'm Hussein Almasri</h1>
 
-### Software Engineering Student
+<h3 align="center">Software Engineering Student</h3>
 
-### Flutter Developer • Laravel Developer • AI Enthusiast
+<h4 align="center">
+Flutter Developer • Laravel Developer • AI Enthusiast
+</h4>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Flutter+Developer;Laravel+Developer;AI+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 <p align="center">
-
-# Hussein Almasri
-
-### Flutter Developer • Laravel Developer • AI Enthusiast
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Laravel+Developer;Software+Engineering+Student;Always+Learning+New+Technologies" />
 </p>
-
----
