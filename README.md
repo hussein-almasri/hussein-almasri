@@ -42,3 +42,39 @@ GitHub Stats
 -  Laravel APIs
 -  AI-powered Projects
 -  Clean Architecture
+## ⭐ Featured Projects
+
+📱 Student Life Manager
+
+Offline-first Flutter application for managing academic life.
+
+🔗 https://github.com/hussein-almasri/student_life_manager
+
+---
+
+📝 Notes App
+
+Simple Flutter note-taking application.
+
+---
+
+🤖 Skill Hub
+
+AI-powered learning platform.
+
+---
+
+💼 FlowWork
+
+Task and workflow management system.
+
+## 🌐 Connect with Me
+
+LinkedIn
+
+GitHub
+
+Google Play
+
+Email
+⭐ Thanks for visiting my profile!
